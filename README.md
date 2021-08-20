@@ -1,25 +1,26 @@
 <h1 align='center'> Hi there! ✌🏾</h1>
 
-<p> My name is Eric Ian and I'm a software developer. I consider myself passionate about innovative and creative products! I'm currently working at the Portfolio Tech Group. You can learn a little more about me here: </p>
+<p> My name is Eric Ian and I'm a software developer. I consider myself passionate about innovative and creative products! I'm currently working at the <a href="https://www.linkedin.com/company/grupoportfolio/mycompany/">Portfolio Tech Group </a>. You can learn a little more about me here: </p>
 
-<a href="https://www.linkedin.com/in/eric-ian-noronha-junqueira-bb40091a7/"> <img height="40" src="https://github.com/ericiannj/ericiannj/blob/master/images/linkedin.png?raw=true"> </a>
+<a href="https://www.linkedin.com/in/eric-ian-noronha-junqueira-bb40091a7/"> LinkedIn </a>
 
 ---
 
 *My current stack is:*
 
-
-
+- HTML, CSS and JS
+- React JS
+- Node.js
+- Figma
 
 *Also, I have experience with:*
 
-
-
+- C#, .NET and ASP.NET
+- Python
 
 ---
 
-I hope we ma
-
+<h1 align='center'> I hope we can keep in touch! </h1>
 
 
 
