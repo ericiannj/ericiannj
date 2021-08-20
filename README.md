@@ -6,8 +6,6 @@
 
 ---
 
-[![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 *My current stack is:*
 
 - HTML, CSS and JS
@@ -19,6 +17,8 @@
 
 - C#, .NET and ASP.NET
 - Python
+
+[![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericiannj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
