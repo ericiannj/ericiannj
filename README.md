@@ -35,6 +35,3 @@
 ---
 
 <h1 align='center'> I hope we can keep in touch! </h1>
-
-<br />
-<br />
