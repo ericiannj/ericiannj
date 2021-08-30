@@ -10,10 +10,14 @@
 
 *My current stack is:*
 
-- HTML, CSS and JS
-- React JS
-- Node.js
-- Figma
+<p align='center'>
+  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/html.png?raw=true">
+  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/css.png?raw=true">
+  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/js.png?raw=true">
+  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/reactjs.png?raw=true">
+  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/nodejs.png?raw=true">
+  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/figma.png?raw=true">
+</p>
 
 *Also, I have experience with:*
 
