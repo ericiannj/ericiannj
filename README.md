@@ -2,7 +2,7 @@
 
 <p> My name is Eric Ian and I'm a software developer. I consider myself passionate about innovative and creative products! I'm currently working at the <a href="https://www.linkedin.com/company/grupoportfolio/mycompany/">Portfolio Tech Group </a>. You can learn a little more about me here: </p>
 
-<a href="https://www.linkedin.com/in/eric-ian-noronha-junqueira-bb40091a7/"> <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/eric-ian-noronha-junqueira-bb40091a7/"> <img height="40" align='center' src="https://github.com/ericiannj/ericiannj/blob/main/images/linkedin.png?raw=true"></a>
 
 ---
 
