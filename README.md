@@ -27,9 +27,12 @@
   <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/python.png?raw=true">
 </p>
 
-[![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericiannj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+
+
+
+
+[![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericiannj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
   
 ---
 
