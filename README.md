@@ -36,6 +36,9 @@
 
 <h1 align='center'> I hope we can keep in touch! </h1>
 
+<br />
+<br />
+
 <!--
 **ericiannj/ericiannj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
