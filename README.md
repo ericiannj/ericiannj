@@ -11,28 +11,30 @@
 *My current stack is:*
 
 <p align='center'>
-  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/html.png?raw=true">
-  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/css.png?raw=true">
-  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/js.png?raw=true">
-  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/reactjs.png?raw=true">
-  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/nodejs.png?raw=true">
-  <img height="30" src="https://github.com/ericiannj/ericiannj/blob/main/images/figma.png?raw=true">
+  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/html.png?raw=true">
+  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/css.png?raw=true">
+  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/js.png?raw=true">
+  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/react.png?raw=true">
+  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/nodejs.png?raw=true">
+  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/figma.png?raw=true">
 </p>
 
 *Also, I have experience with:*
 
-- C#, .NET and ASP.NET
-- Python
+<p align='center'>
+  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/vue.png?raw=true">
+  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/C%23.png?raw=true">
+  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/python.png?raw=true">
+</p>
 
-[![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericiannj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align='center'>
+  [![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericiannj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+  
+  
 ---
 
 <h1 align='center'> I hope we can keep in touch! </h1>
-
-
-
-
 
 <!--
 **ericiannj/ericiannj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
