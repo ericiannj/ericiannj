@@ -15,6 +15,7 @@
   <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/css.png?raw=true">
   <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/js.png?raw=true">
   <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/react.png?raw=true">
+  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/next.png?raw=true">
   <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/C%23.png?raw=true">
   <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/figma.png?raw=true">
 </p>
