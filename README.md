@@ -1,4 +1,4 @@
-<img width="100%" src="https://ibb.co/pKhnjSb" alt="my banner">
+<img width="100%" src="https://github.com/ericiannj/ericiannj/blob/main/images/github-header.png" alt="my banner">
 
 <p>🔭 I'm currently working on Beakyn Company</p>
 <p>💬 Ask me about Front-end Development</p>
