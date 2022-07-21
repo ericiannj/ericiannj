@@ -1,39 +1,35 @@
-<h1 align='center'> Hi there! ✌🏾</h1>
+<img width="100%" src="https://ibb.co/pKhnjSb" alt="my banner">
 
-<p> My name is Eric Ian and I'm a software developer. I consider myself passionate about innovative and creative products! I'm currently working at <a href="https://www.linkedin.com/company/bigbrain/">Big Brain </a>. I'm also a programming and digital design student in the Digital Systems and Media course at Federal University of Ceará. You can learn a little more about me here: </p>
+<p>🔭 I'm currently working on Beakyn Company</p>
+<p>💬 Ask me about Front-end Development</p>
+<p>📫 How to reach me? ericiannj@gmail.com</p>
 
-<p align='center'>
-  <a  href="https://www.linkedin.com/in/eric-ian-noronha-junqueira-bb40091a7/"> <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/linkedin.png? raw=true"></a>
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
----
-
-*My current stack is:*
-
-<p align='center'>
-  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/html.png?raw=true">
-  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/css.png?raw=true">
-  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/js.png?raw=true">
-  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/react.png?raw=true">
-  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/next.png?raw=true">
-  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/C%23.png?raw=true">
-  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/figma.png?raw=true">
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eric-ian-noronha-junqueira-bb40091a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/Eric%20Ian#7086"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-*Also, I have experience with:*
-
-<p align='center'>
-  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/vue.png?raw=true">
-  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/nodejs.png?raw=true">
-  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/python.png?raw=true">
-  <img height="40" src="https://github.com/ericiannj/ericiannj/blob/main/images/processing.png?raw=true">
+## 🌟 Github Badges
+<p>
 </p>
 
-<br />
-<br />
+## 🏆 GitHub Trophies
 
-[![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericiannj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-  
----
+<p><img src="https://github-profile-trophy.vercel.app/?username=ericiannj">
+</p>
 
-<h1 align='center'> I hope we can keep in touch! </h1>
+## 📊 Github Status
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=ericiannj&show_icons=true"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ericiannj"><p>
