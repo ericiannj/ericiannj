@@ -19,6 +19,6 @@
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ericiannj&show_icons=true"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericiannj&layout=compact"><p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ericiannj"><p>
