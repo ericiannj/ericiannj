@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/ericiannj/ericiannj/blob/main/images/github-header.png" alt="my banner">
 
-<p>🔭 I'm currently working on <a "text-decoration:none" color="#EF5751" href="https://beakyn.com/">Beakyn Company</a></p>
+<p>🔭 I'm currently working on <a text-decoration="none" color="#EF5751" href="https://beakyn.com/">Beakyn Company</a></p>
 <p>💬 Ask me about Front-end Development</p>
 <p>📫 ericiannj@gmail.com</p>
 
