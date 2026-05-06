@@ -17,7 +17,7 @@
 
 ---
 
-### 💻 Skills
+### 💻 Main Stack
 
 <p><strong>Core Technologies</strong><br/>
 <code>JavaScript</code> <code>TypeScript</code> <code>HTML</code> <code>CSS</code></p>
